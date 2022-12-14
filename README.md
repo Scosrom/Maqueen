@@ -6,19 +6,19 @@
 
 - [¿Qué es Steam? ¿Qué es un robot Maqueen?](modulo0/modulo0.md)
 
-## Módulo1:Descripción y montaje
+## Descripción y montaje
 
 - [Descripción y montaje](modulo1/modulo1.md)
 
-## Modulo2:Programación básica 1
+## Programación básica 1
 
 - [Programación básica 1](modulo2/modulo2.md)
 
-## Modulo3:Progración básica 2
+## Progración básica 2
 
 - [Programación básica 2](modulo3/modulo3.md)
 
-## Módulo4:Ampliación
+## Ampliación
 
 - [Ampliación](modulo4/modulo4.md)
 
