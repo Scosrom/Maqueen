@@ -1,6 +1,6 @@
 # Maqueen
 ![images](descarga.jfif)
-## Introducción(modulo1/introduccion.md)
+## Introducción
 
 - [¿Qué es Steam? ¿Qué es un robot Maqueen](modulo1/introduccion.md)
 
