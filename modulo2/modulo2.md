@@ -4,4 +4,4 @@ Enunciado
  
  [modulo2.hex](macqueen.hex)
 Paula Brito Milan
-(Robot Maqueen)(https://youtube.com/shorts/fWpiG2T9ghw?feature=share)
+Robot Maqueen- https://youtube.com/shorts/fWpiG2T9ghw?feature=share
