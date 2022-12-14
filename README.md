@@ -39,7 +39,7 @@
 
   [Github](https://github.com/camposchaconjosemaria)
   
-- Paula 
+- Paula Brito Milan
 
 
   [Github](https://github.com/Paulabm24)  
