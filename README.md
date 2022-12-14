@@ -1,28 +1,28 @@
 # Maqueen
-![images](descarga.jfif)
 ## Introducción
 
-- [¿Qué es Steam? ¿Qué es un robot Maqueen](modulo1/introduccion.md)
+- ¿Qué es Steam? ¿Qué es un robot Maqueen
+![images](descarga.jfif)
 
 ## Módulo1:Descripción y montaje
 
-- [Descripción y montaje](modulo2/descripcion_y_montaje.md)
+- [Descripción y montaje](modulo1/descripcion_y_montaje.md)
 
 ## Modulo2:Programación básica 1
 
-- [Programación básica 1](modulo3/programacion1.md)
+- [Programación básica 1](modulo2/programacion1.md)
 
 ## Modulo3:Progración básica 2
 
-- [Programación básica 2](modulo4/programacion2.md)
+- [Programación básica 2](modulo3/programacion2.md)
 
 ## Módulo4:Ampliación
 
-- [Ampliación](modulo5/ampliacion.md)
+- [Ampliación](modulo4/ampliacion.md)
 
 ## Proyecto
 
-- [proyecto](modulo6/proyecto.md)
+- [Proyecto](modulo5/proyecto.md)
 
 ### Referencias
 ### Autores
