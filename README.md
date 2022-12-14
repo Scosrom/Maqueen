@@ -6,19 +6,19 @@
 
 ## Módulo1:Descripción y montaje
 
-- [Descripción y montaje](modulo1/descripcion_y_montaje.md)
+- [Descripción y montaje](modulo1/modulo1.md)
 
 ## Modulo2:Programación básica 1
 
-- [Programación básica 1](modulo2/programacion1.md)
+- [Programación básica 1](modulo2/modulo2.md)
 
 ## Modulo3:Progración básica 2
 
-- [Programación básica 2](modulo3/programacion2.md)
+- [Programación básica 2](modulo3/modulo3.md)
 
 ## Módulo4:Ampliación
 
-- [Ampliación](modulo4/ampliacion.md)
+- [Ampliación](modulo4/modulo4.md)
 
 ## Proyecto
 
