@@ -1,5 +1,8 @@
 # Maqueen
-![images](descarga.jfif)
+
+![27319_ROB0156-L](https://user-images.githubusercontent.com/114906778/207543201-ab46a1fb-baf1-43bf-aa97-049bbeceadc9.jpg)
+
+
 ## Introducción
 
 - [¿Qué es Steam? ¿Qué es un robot Maqueen](modulo1/introduccion.md)
