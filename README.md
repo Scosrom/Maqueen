@@ -28,12 +28,18 @@
 ### Autores
 
 - Sandra María Costales Romero 
+
+
   [Github](https://github.com/Scosrom)
   
 - José María Campos Chacón 
+
+
   [Github](https://github.com/camposchaconjosemaria)
   
 - Paula 
+
+
   [Github](https://github.com/Paulabm24)  
   
  
