@@ -1,5 +1,7 @@
 ## LOS PRIMEROS PASOS CON MAQUEEN
 
+## Video 1
+
 ### Proyecto 1
 
 Robot Maqueen- https://youtube.com/shorts/fWpiG2T9ghw?feature=share
@@ -20,3 +22,18 @@ En este proyecto hemos puesto que al iniciar, se muestre un saludo, y se reprodu
 
 
 José María Campos Chacón
+
+## video 2
+
+### Proyecto 1
+
+En este proyecto hacemos que nuestro robot baile, programando una secuencia de movimientos con un bloque para siempre. Mientras nuestro robot baila sonará una musica, que también hemos metido en un bloque para siempre, y además, se encenderán los LED color arcoiris. 
+
+
+![Captura](https://user-images.githubusercontent.com/114906778/208055241-0e2cad49-08f7-423a-b3b8-8e37188ba175.PNG)
+
+Código
+
+
+
+
