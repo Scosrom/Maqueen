@@ -34,7 +34,7 @@ En este proyecto hacemos que nuestro robot baile, programando una secuencia de m
 
 Código
 
-[codigo](microbit-robot-final.hex)
+[codigo](microbit-Robot-final.hex)
 
 
 
