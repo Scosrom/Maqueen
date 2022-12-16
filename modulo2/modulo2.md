@@ -32,7 +32,7 @@ En este proyecto hacemos que nuestro robot baile, programando una secuencia de m
 
 ![Captura](https://user-images.githubusercontent.com/114906778/208055241-0e2cad49-08f7-423a-b3b8-8e37188ba175.PNG)
 
-Código
+
 
 [codigo](microbit-Robot-final.hex)
 
