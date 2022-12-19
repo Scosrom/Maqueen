@@ -36,6 +36,8 @@ En este proyecto hacemos que nuestro robot baile, programando una secuencia de m
 
 [codigo](microbit-Robot-final.hex)
 
+Video - https://youtu.be/7GYN-bCZetc
+
 Sandra Costales Romero
 
 
