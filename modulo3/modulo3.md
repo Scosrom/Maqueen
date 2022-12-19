@@ -30,3 +30,7 @@ Lo primero de todo es crear una variable que se llame PROGRAMA, al iniciar se va
  
  Paula Brito Milan
  
+ ### Proyecto 3
+ 
+ El robot debe avanzar en linea recta 5 segundos, a continuación hacer un giro de 180º y volver hacia atras otros 5 segundos.
+ 
