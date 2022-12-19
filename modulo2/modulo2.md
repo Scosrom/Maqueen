@@ -23,9 +23,9 @@ En este proyecto hemos puesto que al iniciar, se muestre un saludo, y se reprodu
 
 José María Campos Chacón
 
-## video 2
+## video 
 
-### Proyecto 1
+### Proyecto 3
 
 Video - https://youtu.be/7GYN-bCZetc
 
