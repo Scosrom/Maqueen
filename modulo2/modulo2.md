@@ -41,6 +41,6 @@ Sandra Costales Romero
 En este preoyecto vamos a ver las distintas formas de utilizar los led, con la red RGB. Le hemos dicho que al iniciar muestre las led en forma de arcoiris y en para siempre que rote la led y la muestre.
 
 ![image](MODULO2.1.PNG)
- [modulo2.1.hex](MAQUEEN21.hex)
+
 
 Paula Brito Milan
