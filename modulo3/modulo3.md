@@ -9,7 +9,11 @@ Video - https://youtu.be/_9vwawXZXmE
 
 [Codigo](temperatura.hex)
 
+
 ### Proyecto 2: Modificar variables con los botones
+
+Video - https://youtube.com/shorts/Kwrqc5x8tVQ?feature=share
+
 
 ![Botones](https://user-images.githubusercontent.com/114906778/208392107-e8b6e4c8-7809-4f3d-9618-2d9f28041068.PNG)
 
