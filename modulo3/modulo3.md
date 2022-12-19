@@ -26,11 +26,13 @@ Video - https://youtube.com/shorts/Kwrqc5x8tVQ?feature=share
 
 #### 2.2 - Paula Brito Milan
 
+Video del robot - https://youtube.com/shorts/jCKUaax2Buc?feature=share
+
 ![image](MODULO3.PNG)
 
  [modulo3.hex](MAQUEEN3.hex)
  
- Video del robot - https://youtube.com/shorts/jCKUaax2Buc?feature=share
+ 
  
  
  #### 2.3 - Jose María Campos Chacón 
