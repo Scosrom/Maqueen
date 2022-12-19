@@ -9,7 +9,8 @@
 
 ### Proyecto 2: Modificar variables con los botones
 
-![Temperatura](https://user-images.githubusercontent.com/114906778/208391295-73e5d249-0e86-4c36-a94d-9a17049eebbb.PNG)
+![Botones](https://user-images.githubusercontent.com/114906778/208392107-e8b6e4c8-7809-4f3d-9618-2d9f28041068.PNG)
+
 
 [codigo](botones.hex)
 
