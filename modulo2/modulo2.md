@@ -37,6 +37,9 @@ En este proyecto hacemos que nuestro robot baile, programando una secuencia de m
 [codigo](microbit-Robot-final.hex)
 
 Sandra Costales Romero
+### Proyecto 2
 
+![image](MODULO2.1.PNG)
+ [modulo2.1.hex](MAQUEEN21.hex)
 
-
+Paula Brito Milan
