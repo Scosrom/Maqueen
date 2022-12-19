@@ -49,3 +49,10 @@ En este preoyecto vamos a ver las distintas formas de utilizar los led, con la r
  [modulo2.1.hex](MAQUEEN21.hex)
 
 Paula Brito Milan
+
+## Carrera de robot
+
+![Captura](https://user-images.githubusercontent.com/114906778/208377576-bef29122-bbf7-4955-839a-5e9501598633.PNG)
+
+
+
