@@ -45,7 +45,7 @@ Video del robot - https://youtube.com/shorts/jCKUaax2Buc?feature=share
  
  ### Proyecto 3
  
- Video - https://youtu.be/rt7BQRTkFj0
+ Video - https://youtu.be/DImRB9DeFnw
  
  El robot debe avanzar en linea recta 5 segundos, a continuación hacer un giro de 180º y volver hacia atras otros 5 segundos.
  
