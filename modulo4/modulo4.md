@@ -20,7 +20,7 @@ Video - https://youtube.com/shorts/NPK_Pm1mCQo?feature=share
 
 En este otro ejercicio, a través de un mando con infrarrojos, haremos que nuestro maqueen entre en movimiento. Para ello primero tenemos que saber que frecuencia recibe la microbit con cada botón del mando. Para conseguir esto haremos un programa que al pulsar cualquier botón del mando, nos indique un número con la frecuencia que recibe la microbit. Despúes creamos un programa con los movimientos que va a realizar nuestro robot fijando el número de frecuencia de cada botón con el movimiento a realizar.
 
-Video - 
+Video - https://youtu.be/YQOt2X005QA
 
 ### Código radio1
 
