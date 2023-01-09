@@ -21,3 +21,12 @@ En este otro ejercicio, a través de un mando con infrarrojos, haremos que nuest
 ### Código radio1
 
 ![maqueen ir](https://user-images.githubusercontent.com/114906855/211272854-ea0b979f-6897-43c6-9b4b-7f03afdd8294.png)
+
+### Código Movimiento
+
+![Sin título](https://user-images.githubusercontent.com/114906778/211274083-74495cde-28c4-4d43-9a5c-e4849a8c8b49.png)
+
+Código 
+
+
+
