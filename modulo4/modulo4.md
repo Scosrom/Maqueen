@@ -5,6 +5,8 @@ En este apartado vamos a trabajar con nuestro maqueen, a través de señales de 
 Hemos creado un código para que al pusar las distintas teclas de otro microbit, muestren colores distintos los Led del maqueen.
 El primer paso sería ingresar a la microbit que utilizaremos como emisora, el código con las instrucciones para que el receptor interprete las diferentes señales que le llegan. El segundo paso crear e introducir el código en la microbit receptora con los distintos colores, y ya funcionaría todo.
 
+Video - https://youtube.com/shorts/NPK_Pm1mCQo?feature=share
+
 ### Código radio1
 ![radio1](https://user-images.githubusercontent.com/114906855/211269415-3d73167e-de1e-447f-b322-ba78d2bbd62c.png)
 ### Código radio2
@@ -17,6 +19,8 @@ El primer paso sería ingresar a la microbit que utilizaremos como emisora, el c
 ## Ejemplo2:
 
 En este otro ejercicio, a través de un mando con infrarrojos, haremos que nuestro maqueen entre en movimiento. Para ello primero tenemos que saber que frecuencia recibe la microbit con cada botón del mando. Para conseguir esto haremos un programa que al pulsar cualquier botón del mando, nos indique un número con la frecuencia que recibe la microbit. Despúes creamos un programa con los movimientos que va a realizar nuestro robot fijando el número de frecuencia de cada botón con el movimiento a realizar.
+
+Video - 
 
 ### Código radio1
 
