@@ -10,5 +10,5 @@ El primer paso sería ingresar a la microbit que utilizaremos como emisora, el c
 ### Código radio2
 ![radio2](https://user-images.githubusercontent.com/114906855/211269424-23d10766-c2b6-40cf-a906-1804c8167dea.png)
 
-codigo_radio1
-codigo_radio2
+[codigo_radio1](microbit-Radio1.hex)
+[codigo_radio2](microbit-Radio2 (1).hex)
