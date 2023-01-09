@@ -24,7 +24,7 @@
 
 ## Proyecto
 
-- [Proyecto](modulo5/proyecto.md)
+- [Proyecto](proyecto/proyecto.md)
 
 ### Referencias
 ### Autores
