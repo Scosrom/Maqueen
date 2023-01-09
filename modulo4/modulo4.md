@@ -26,7 +26,7 @@ En este otro ejercicio, a través de un mando con infrarrojos, haremos que nuest
 
 ![Sin título](https://user-images.githubusercontent.com/114906778/211274083-74495cde-28c4-4d43-9a5c-e4849a8c8b49.png)
 
-[Código](microbit-Gamer(12).hex)
+[Código](microbit-Gamer (12).hex)
 
 
 
