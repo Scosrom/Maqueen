@@ -13,3 +13,11 @@ El primer paso sería ingresar a la microbit que utilizaremos como emisora, el c
 [codigo_radio1](microbit-Radio1.hex)
 
 [codigo_radio2](microbit-Radio2(1).hex)
+
+## Ejemplo2:
+
+En este otro ejercicio, a través de un mando con infrarrojos, haremos que nuestro maqueen entre en movimiento. Para ello primero tenemos que saber que frecuencia recibe la microbit con cada botón del mando. Para conseguir esto haremos un programa que al pulsar cualquier botón del mando, nos indique un número con la frecuencia que recibe la microbit. Despúes creamos un programa con los movimientos que va a realizar nuestro robot fijando el número de frecuencia de cada botón con el movimiento a realizar.
+
+### Código radio1
+
+![maqueen ir](https://user-images.githubusercontent.com/114906855/211272854-ea0b979f-6897-43c6-9b4b-7f03afdd8294.png)
