@@ -16,6 +16,15 @@ Video - https://youtube.com/shorts/NPK_Pm1mCQo?feature=share
 
 [codigo_radio2](microbit-Radio2(1).hex)
 
+### Código radio1 - PAULA BRITO MILAN
+![radio1](MODULO4.PNG)
+[codigo_radio1](MAQUEN4.hex)
+
+### Código radio2 - PAULA BRITO MILAN
+![radio1](MODULO4.1.PNG)
+[codigo_radio1](MAQUEN41.hex)
+
+VIDEO - https://youtube.com/shorts/AaZwKKuiXhs
 ## Ejemplo2:
 
 En este otro ejercicio, a través de un mando con infrarrojos, haremos que nuestro maqueen entre en movimiento. Para ello primero tenemos que saber que frecuencia recibe la microbit con cada botón del mando. Para conseguir esto haremos un programa que al pulsar cualquier botón del mando, nos indique un número con la frecuencia que recibe la microbit. Despúes creamos un programa con los movimientos que va a realizar nuestro robot fijando el número de frecuencia de cada botón con el movimiento a realizar.
