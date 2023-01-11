@@ -18,10 +18,12 @@ Video - https://youtube.com/shorts/NPK_Pm1mCQo?feature=share
 
 ### Código radio1 - PAULA BRITO MILAN
 ![radio1](MODULO4.PNG)
+
 [codigo_radio1](MAQUEN4.hex)
 
 ### Código radio2 - PAULA BRITO MILAN
 ![radio1](MODULO4.1.PNG)
+
 [codigo_radio1](MAQUEN41.hex)
 
 VIDEO - https://youtube.com/shorts/AaZwKKuiXhs
@@ -41,5 +43,10 @@ Video - https://youtu.be/YQOt2X005QA
 
 [Código](codigo2.hex)
 
+### Código Movimiento - PAULA BRITO MILAN
+![movimiento](MODULO4.2.PNG)
 
+[Código](MAQUEN42MANDO.hex)
+
+VIDEO - https://youtube.com/shorts/BPVY-GAX9uc?feature=share
 
