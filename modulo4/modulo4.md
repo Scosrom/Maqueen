@@ -48,5 +48,5 @@ Otra funcionalidad que tiene el maqueen es la de detectar la distacia de los obj
 ### Código de bloques
 ![Captura desde 2023-01-11 10-09-32](https://user-images.githubusercontent.com/114906855/211765637-8e93f4a4-f626-4bce-8159-0639d28d1ba2.png)
 
-[Código](
+[Código](distancia.hex)
 
