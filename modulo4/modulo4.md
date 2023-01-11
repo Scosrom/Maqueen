@@ -38,4 +38,4 @@ Ahora vamos a comprobar como la microbit también es capaz de recibir un sonido 
 ### Código de bloques
 ![Captura desde 2023-01-11 09-07-44](https://user-images.githubusercontent.com/114906855/211753295-8c239138-ac78-4313-8d30-357a6f39bd1b.png)
 
-[Código]
+[Código](sonido.hex)
