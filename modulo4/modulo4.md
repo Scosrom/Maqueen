@@ -43,10 +43,32 @@ Video - https://youtu.be/YQOt2X005QA
 
 [Código](codigo2.hex)
 
+
+## Ejemplo3: 
+Ahora vamos a comprobar como la microbit también es capaz de recibir un sonido e interpretarlo según su volumen. En este caso práctico, realizaremos un código con el cual al recibir el sonido de un aplauso el maqueen avance, pero cuando deje de recibir dicho sonido, procederá a pararse y se encenderán los Leds azules.
+
+Vídeo - https://www.youtube.com/watch?v=DTXEfNbxD-Q
+
+### Código de bloques
+![Captura desde 2023-01-11 09-07-44](https://user-images.githubusercontent.com/114906855/211753295-8c239138-ac78-4313-8d30-357a6f39bd1b.png)
+
+[Código](sonido.hex)
+
+## Ejemplo4:
+Otra funcionalidad que tiene el maqueen es la de detectar la distacia de los objetos. En este ejercicio vamos a hacer que nuestro robot evite obstáculos hasta encontrar una salida y continuar su camino. Cada obstáculo que se vuelva a encotrar lo volverá a esquivar.
+
+Vídeo - https://www.youtube.com/shorts/MacQ5x26UEU
+
+### Código de bloques
+![Captura desde 2023-01-11 10-09-32](https://user-images.githubusercontent.com/114906855/211765637-8e93f4a4-f626-4bce-8159-0639d28d1ba2.png)
+
+[Código](distancia.hex)
+=======
 ### Código Movimiento - PAULA BRITO MILAN
 ![movimiento](MODULO4.2.PNG)
 
 [Código](MAQUEN42MANDO.hex)
 
 VIDEO - https://youtube.com/shorts/BPVY-GAX9uc?feature=share
+
 
