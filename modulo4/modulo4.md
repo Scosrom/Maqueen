@@ -63,7 +63,7 @@ Vídeo - https://www.youtube.com/shorts/MacQ5x26UEU
 ![Captura desde 2023-01-11 10-09-32](https://user-images.githubusercontent.com/114906855/211765637-8e93f4a4-f626-4bce-8159-0639d28d1ba2.png)
 
 [Código](distancia.hex)
-=======
+
 ### Código Movimiento - PAULA BRITO MILAN
 ![movimiento](MODULO4.2.PNG)
 
