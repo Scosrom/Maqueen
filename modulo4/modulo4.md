@@ -9,10 +9,11 @@ Video - https://youtube.com/shorts/NPK_Pm1mCQo?feature=share
 
 ### Código radio1
 ![radio1](https://user-images.githubusercontent.com/114906855/211269415-3d73167e-de1e-447f-b322-ba78d2bbd62c.png)
-### Código radio2
-![radio2](https://user-images.githubusercontent.com/114906855/211269424-23d10766-c2b6-40cf-a906-1804c8167dea.png)
 
 [codigo_radio1](microbit-Radio1.hex)
+
+### Código radio2
+![radio2](https://user-images.githubusercontent.com/114906855/211269424-23d10766-c2b6-40cf-a906-1804c8167dea.png)
 
 [codigo_radio2](microbit-Radio2(1).hex)
 
