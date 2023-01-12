@@ -1,6 +1,6 @@
 En este apartado vamos a trabajar con nuestro maqueen, a través de señales de radio mediante otra placa microbit y con señales infrarrojas con un mando.
 
-## Ejemplo1:
+## Ejemplo 1:
 
 Hemos creado un código para que al pusar las distintas teclas de otro microbit, muestren colores distintos los Led del maqueen.
 El primer paso sería ingresar a la microbit que utilizaremos como emisora, el código con las instrucciones para que el receptor interprete las diferentes señales que le llegan. El segundo paso crear e introducir el código en la microbit receptora con los distintos colores, y ya funcionaría todo.
@@ -16,6 +16,8 @@ Video - https://youtube.com/shorts/NPK_Pm1mCQo?feature=share
 
 [codigo_radio2](microbit-Radio2(1).hex)
 
+#### Ejemplo 1.1:
+
 ### Código radio1 - PAULA BRITO MILAN
 ![radio1](MODULO4.PNG)
 
@@ -27,7 +29,8 @@ Video - https://youtube.com/shorts/NPK_Pm1mCQo?feature=share
 [codigo_radio1](MAQUEN41.hex)
 
 VIDEO - https://youtube.com/shorts/AaZwKKuiXhs
-## Ejemplo2:
+
+## Ejemplo 2:
 
 En este otro ejercicio, a través de un mando con infrarrojos, haremos que nuestro maqueen entre en movimiento. Para ello primero tenemos que saber que frecuencia recibe la microbit con cada botón del mando. Para conseguir esto haremos un programa que al pulsar cualquier botón del mando, nos indique un número con la frecuencia que recibe la microbit. Despúes creamos un programa con los movimientos que va a realizar nuestro robot fijando el número de frecuencia de cada botón con el movimiento a realizar.
 
@@ -44,7 +47,7 @@ Video - https://youtu.be/YQOt2X005QA
 [Código](codigo2.hex)
 
 
-## Ejemplo3: 
+## Ejemplo 3: 
 Ahora vamos a comprobar como la microbit también es capaz de recibir un sonido e interpretarlo según su volumen. En este caso práctico, realizaremos un código con el cual al recibir el sonido de un aplauso el maqueen avance, pero cuando deje de recibir dicho sonido, procederá a pararse y se encenderán los Leds azules.
 
 Vídeo - https://www.youtube.com/watch?v=DTXEfNbxD-Q
@@ -54,7 +57,7 @@ Vídeo - https://www.youtube.com/watch?v=DTXEfNbxD-Q
 
 [Código](sonido.hex)
 
-## Ejemplo4:
+## Ejemplo 4:
 Otra funcionalidad que tiene el maqueen es la de detectar la distacia de los objetos. En este ejercicio vamos a hacer que nuestro robot evite obstáculos hasta encontrar una salida y continuar su camino. Cada obstáculo que se vuelva a encotrar lo volverá a esquivar.
 
 Vídeo - https://www.youtube.com/shorts/MacQ5x26UEU
@@ -63,6 +66,8 @@ Vídeo - https://www.youtube.com/shorts/MacQ5x26UEU
 ![Captura desde 2023-01-11 10-09-32](https://user-images.githubusercontent.com/114906855/211765637-8e93f4a4-f626-4bce-8159-0639d28d1ba2.png)
 
 [Código](distancia.hex)
+
+#### Ejemplo 4.1:
 
 ### Código Movimiento - PAULA BRITO MILAN
 ![movimiento](MODULO4.2.PNG)
