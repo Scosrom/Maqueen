@@ -46,6 +46,15 @@ Video - https://youtu.be/YQOt2X005QA
 
 [Código](codigo2.hex)
 
+#### Ejemplo 2.1:
+
+### Código Movimiento - PAULA BRITO MILAN
+![movimiento](MODULO4.2.PNG)
+
+[Código](MAQUEN42MANDO.hex)
+
+VIDEO - https://youtube.com/shorts/BPVY-GAX9uc?feature=share
+
 
 ## Ejemplo 3: 
 Ahora vamos a comprobar como la microbit también es capaz de recibir un sonido e interpretarlo según su volumen. En este caso práctico, realizaremos un código con el cual al recibir el sonido de un aplauso el maqueen avance, pero cuando deje de recibir dicho sonido, procederá a pararse y se encenderán los Leds azules.
@@ -67,13 +76,8 @@ Vídeo - https://www.youtube.com/shorts/MacQ5x26UEU
 
 [Código](distancia.hex)
 
-#### Ejemplo 4.1:
 
-### Código Movimiento - PAULA BRITO MILAN
-![movimiento](MODULO4.2.PNG)
 
-[Código](MAQUEN42MANDO.hex)
 
-VIDEO - https://youtube.com/shorts/BPVY-GAX9uc?feature=share
 
 
