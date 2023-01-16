@@ -25,6 +25,8 @@
 
 ## Ampliación
 
+En este apartado vamos a trabajar con nuestro maqueen, a través de señales de radio mediante otra placa microbit y con señales infrarrojas con un mando.
+
 - [Proyecto 1:](modulo4/proyecto1.md)
 - [Proyecto 1:](modulo4/proyecto2.md)
 - [Proyecto 1:](modulo4/proyecto3.md)
