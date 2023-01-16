@@ -10,6 +10,8 @@ En el siguiente proyecto vamos a hacer que cuando pulsemos el boton A nuestro ro
 
 [Codigo Sigue las lineas](sigueLasLineas.hex)
 
+https://makecode.microbit.org/_XxAXsRg4zKuL
+
 ### Boton B
 
 ### Boton A+B
