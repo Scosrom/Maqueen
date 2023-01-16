@@ -19,7 +19,9 @@
 
 ## Progración básica 2
 
-- [Programación básica 2](modulo3/modulo3.md)
+- [Programación básica 2](modulo3/proyecto1.md)
+- [Programación básica 2](modulo3/proyecto2.md)
+- [Programación básica 2](modulo3/proyecto3.md)
 
 ## Ampliación
 
