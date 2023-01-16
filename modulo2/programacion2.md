@@ -1,3 +1,5 @@
+## Luces y movimientos
+
 ### Proyecto 2
 
 En este proyecto hemos puesto que al iniciar, se muestre un saludo, y se reproducirá una melodía mientras el maqueen esté en funcionamiento. Otras funciones son que al pulsar el botón (A), se encienda el LED izq y retoceda mientras muestra un icono en la micro:bit. Y al presionar el botón (B) avanzará hacia delante, mientras muestra en la placa micro:bit una flecha
