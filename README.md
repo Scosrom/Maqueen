@@ -14,7 +14,7 @@
 
 - [Proyecto 1: primeros pasos](modulo2/programación1.md)
 - [Proyecto 2: Luces y movimientos](modulo2/programacion2.md)
-- [Proyecto 3: ](modulo2/programacion3.md)
+- [Proyecto 3: Baile](modulo2/programacion3.md)
 - [Proyecto 4: Carreras de robot](modulo2/programacion4.md)
 
 ## Progración básica 2
