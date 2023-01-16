@@ -1,4 +1,5 @@
-## Ejemplo 3: 
+## Proyecto 3: Recibir sonido e interpretarlo 
+
 Ahora vamos a comprobar como la microbit también es capaz de recibir un sonido e interpretarlo según su volumen. En este caso práctico, realizaremos un código con el cual al recibir el sonido de un aplauso el maqueen avance, pero cuando deje de recibir dicho sonido, procederá a pararse y se encenderán los Leds azules.
 
 Vídeo - https://www.youtube.com/watch?v=DTXEfNbxD-Q
