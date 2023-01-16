@@ -6,7 +6,9 @@
 
 En el siguiente proyecto vamos a hacer que cuando pulsemos el boton A nuestro robot detecte las lineas que hay en el suelo con su lector infrarrojos. Si este lector detecta que nuestro robot está fuera de la linea, corregirá su movimiento para que vuelva a estar justo encima. 
 
- file:///home/asir/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202023-01-16%2009-26-16.png
+![Captura desde 2023-01-16 09-26-16](https://user-images.githubusercontent.com/114906778/212631843-38756b11-144b-4598-bfd7-47d39d1fb025.png)
+
+[Codigo Sigue las lineas](
 
 ### Boton B
 
@@ -22,3 +24,4 @@ En el siguiente proyecto vamos a hacer que cuando pulsemos el boton A nuestro ro
 |B|Giro a la derecha|2    
 |Pantalla cara al suelo|Parar|0
 | Agitado | Luces On |5
+
