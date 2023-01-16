@@ -7,5 +7,5 @@ Vídeo - https://www.youtube.com/watch?v=SLmUyfYCYVU
 ### Código de bloques
 ![sigueLineas](https://user-images.githubusercontent.com/114906855/212688847-5d445274-7b49-45ca-805b-6e575a5db053.png)
 
-(Código)
+[Código](sigueLinea.hex) 
 
