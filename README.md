@@ -31,6 +31,7 @@ En este apartado vamos a trabajar con nuestro maqueen, a través de señales de 
 - [Proyecto 2: Movimiento](modulo4/proyecto2.md)
 - [Proyecto 3: Recibir sonido e interpretarlo ](modulo4/proyecto3.md)
 - [Proyecto 4: Evitar Obstáculos](modulo4/proyecto4.md)
+- [Proyecto 5: Seguir la linea](modulo4/proyecto5.md)
 
 ## Proyecto
 
