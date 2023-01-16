@@ -2,15 +2,16 @@
 
 ![27319_ROB0156-L](https://user-images.githubusercontent.com/114906778/207546794-667d5d8b-6c83-4ca5-aff8-4cb13cf3c9cb.jpg)
 
-## Introducción
+
+
+
+## 0. Descripción y montaje
 
 - [¿Qué es Steam? ¿Qué es un robot Maqueen?](modulo0/modulo0.md)
 
-## 0- Descripción y montaje
-
 - [Descripción y montaje](modulo1/modulo1.md)
 
-## 1- Programación básica 1
+## 1. Programación básica 1
 
 Empezaremos trabajando con los primeros pasos que podemos dar con nuestro robot maqueen.
 
@@ -19,7 +20,7 @@ Empezaremos trabajando con los primeros pasos que podemos dar con nuestro robot 
 - [Proyecto 3: Baile](modulo2/programacion3.md)
 - [Proyecto 4: Carreras de robot](modulo2/programacion4.md)
 
-## 2- Progración básica 2
+## 2. Progración básica 2
 
 Aquí trabajamos con las variables y bucles de control.
 
@@ -27,7 +28,7 @@ Aquí trabajamos con las variables y bucles de control.
 - [Proyecto 2: Modificar variables con los botones](modulo3/proyecto2.md)
 - [Proyecto 3: Movimiento y giro](modulo3/proyecto3.md)
 
-## 3- Ampliación
+## 3. Ampliación
 
 En este apartado vamos a trabajar con nuestro maqueen a través de señales de radio mediante otra placa microbit y con señales infrarrojas con un mando.
 
@@ -37,7 +38,7 @@ En este apartado vamos a trabajar con nuestro maqueen a través de señales de r
 - [Proyecto 4: Evitar Obstáculos](modulo4/proyecto4.md)
 - [Proyecto 5: Seguir la linea](modulo4/proyecto5.md)
 
-## 4- Proyecto
+## 4. Proyecto
 
 - [Proyecto](proyecto/proyecto.md)
 
