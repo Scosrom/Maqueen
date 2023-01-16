@@ -2,6 +2,10 @@
 
 ### Boton A
 
+#### Sigue las líneas.
+
+En el siguiente proyecto vamos a hacer que cuando pulsemos el boton A nuestro robot detecte las lineas que hay en el suelo con su lector infrarrojos. Si este lector detecta que nuestro robot está fuera de la linea, corregirá su movimiento para que vuelva a estar justo encima. 
+
 ### Boton B
 
 ### Boton A+B
