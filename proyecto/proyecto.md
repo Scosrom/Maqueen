@@ -6,11 +6,13 @@
 
 En el siguiente proyecto vamos a hacer que cuando pulsemos el boton A nuestro robot detecte las lineas que hay en el suelo con su lector infrarrojos. Si este lector detecta que nuestro robot está fuera de la linea, corregirá su movimiento para que vuelva a estar justo encima. 
 
+[Enlace directo a Makecode](https://makecode.microbit.org/_XxAXsRg4zKuL)
+
 ![Captura desde 2023-01-16 09-26-16](https://user-images.githubusercontent.com/114906778/212631843-38756b11-144b-4598-bfd7-47d39d1fb025.png)
 
 [Codigo Sigue las lineas](sigueLasLineas.hex)
 
-[Enlace directo a Makecode](https://makecode.microbit.org/_XxAXsRg4zKuL)
+
 
 ### Boton B
 
