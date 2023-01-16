@@ -19,9 +19,9 @@
 
 ## Progración básica 2
 
-- [Programación básica 2](modulo3/proyecto1.md)
-- [Programación básica 2](modulo3/proyecto2.md)
-- [Programación básica 2](modulo3/proyecto3.md)
+- [Proyecto 1: Control Temperatura](modulo3/proyecto1.md)
+- [Proyecto 2: Modificar variables con los botones](modulo3/proyecto2.md)
+- [Proyecto 3: Movimiento y giro](modulo3/proyecto3.md)
 
 ## Ampliación
 
