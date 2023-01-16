@@ -12,7 +12,7 @@
 
 ## Programación básica 1
 
-En este apartado vamos a trabajar los primeros pasos que podemos dar con nuestro robot.
+Empezaremos trabajando con los primeros pasos que podemos dar con nuestro robot maqueen.
 
 - [Proyecto 1: Primeros pasos](modulo2/programación1.md)
 - [Proyecto 2: LED y movimientos](modulo2/programacion2.md)
@@ -21,7 +21,7 @@ En este apartado vamos a trabajar los primeros pasos que podemos dar con nuestro
 
 ## Progración básica 2
 
-En este apartado trabajamos con las variables y bucles de control.
+Aquí trabajamos con las variables y bucles de control.
 
 - [Proyecto 1: Control Temperatura](modulo3/proyecto1.md)
 - [Proyecto 2: Modificar variables con los botones](modulo3/proyecto2.md)
