@@ -25,7 +25,10 @@
 
 ## Ampliación
 
-- [Ampliación](modulo4/modulo4.md)
+- [Proyecto 1:](modulo4/proyecto1.md)
+- [Proyecto 1:](modulo4/proyecto2.md)
+- [Proyecto 1:](modulo4/proyecto3.md)
+- [Proyecto 1:](modulo4/proyecto4.md)
 
 ## Proyecto
 
