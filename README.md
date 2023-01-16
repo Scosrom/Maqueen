@@ -12,7 +12,7 @@
 
 ## Programación básica 1
 
-- [Primeros pasos](modulo2/programacion1.md)
+- [Primeros pasos](modulo2/programación1.md)
 
 ## Progración básica 2
 
