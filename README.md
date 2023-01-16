@@ -57,3 +57,8 @@ En este apartado vamos a trabajar con nuestro maqueen, a través de señales de 
   
  
 ### Licencia
+
+![Licencia](https://user-images.githubusercontent.com/114906778/212671103-a54eafd9-ea4b-45c9-920b-79a7202bf2e5.PNG)
+
+
+ 
