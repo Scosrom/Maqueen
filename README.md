@@ -29,7 +29,7 @@ Aquí trabajamos con las variables y bucles de control.
 
 ## Ampliación
 
-En este apartado vamos a trabajar con nuestro maqueen, a través de señales de radio mediante otra placa microbit y con señales infrarrojas con un mando.
+En este apartado vamos a trabajar con nuestro maqueen a través de señales de radio mediante otra placa microbit y con señales infrarrojas con un mando.
 
 - [Proyecto 1: Colores](modulo4/proyecto1.md)
 - [Proyecto 2: Movimiento](modulo4/proyecto2.md)
