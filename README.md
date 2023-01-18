@@ -40,6 +40,8 @@ En este apartado vamos a trabajar con nuestro maqueen a través de señales de r
 
 ## 4. Proyecto
 
+En este proyecto haremos que localice la linea negra y saque los obstáculos que se encuentren dentro. 
+
 - [Proyecto](proyecto/proyecto.md)
 
 ### Referencias
