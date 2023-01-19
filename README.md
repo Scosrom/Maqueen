@@ -1,5 +1,8 @@
 # Maqueen
 
+
+Maqueen es un robot programable para micro:bit ideal para introducirse en proyectos STEM. Hereda la sencillez de micro:bit aportando nuevos sensores y operadores con los que trabajar.
+
 ![27319_ROB0156-L](https://user-images.githubusercontent.com/114906778/207546794-667d5d8b-6c83-4ca5-aff8-4cb13cf3c9cb.jpg)
 
 
