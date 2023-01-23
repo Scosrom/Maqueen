@@ -9,6 +9,6 @@ El robot empezara a andar y se encontrar un obstaculo, calculara la distancia e 
 
 
 
-[Video Tutorial Eliminar Objetos](https://youtu.be/Q7Z0hGuhuK0)
 
-[Codigo]()
+
+
