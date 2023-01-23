@@ -45,7 +45,7 @@ En este apartado vamos a trabajar con nuestro maqueen a través de señales de r
 
 En este proyecto haremos que localice la linea negra y saque los obstáculos que se encuentren dentro. 
 
-- [Proyecto Eliminar Objetos](proyecto/proyecto.md)
+- [Eliminar Objetos](proyecto/proyecto.md)
 - [Video Tutorial Eliminar Objetos](https://youtu.be/Q7Z0hGuhuK0)
 - [Código Eliminar Objetos]()
 
