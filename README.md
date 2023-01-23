@@ -47,7 +47,7 @@ En este proyecto haremos que localice la linea negra y saque los obstáculos que
 
 - [Eliminar Objetos](proyecto/proyecto.md)
 - [Video Tutorial Eliminar Objetos](https://youtu.be/Q7Z0hGuhuK0)
-- [Código Del programa](proyectomaqueen.hex)
+- [Código Del programa](proyecto/proyectomaqueen.hex)
 
 ### Referencias
 ### Autores
